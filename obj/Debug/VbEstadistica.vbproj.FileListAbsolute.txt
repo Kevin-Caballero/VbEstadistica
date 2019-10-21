@@ -1,0 +1,13 @@
+D:\Programacion\VisualBasic\VbEstadistica\bin\Debug\VbEstadistica.exe.config
+D:\Programacion\VisualBasic\VbEstadistica\bin\Debug\VbEstadistica.exe
+D:\Programacion\VisualBasic\VbEstadistica\bin\Debug\VbEstadistica.pdb
+D:\Programacion\VisualBasic\VbEstadistica\bin\Debug\VbEstadistica.xml
+D:\Programacion\VisualBasic\VbEstadistica\obj\Debug\VbEstadistica.vbprojAssemblyReference.cache
+D:\Programacion\VisualBasic\VbEstadistica\obj\Debug\VbEstadistica.Form1.resources
+D:\Programacion\VisualBasic\VbEstadistica\obj\Debug\VbEstadistica.Resources.resources
+D:\Programacion\VisualBasic\VbEstadistica\obj\Debug\VbEstadistica.vbproj.GenerateResource.cache
+D:\Programacion\VisualBasic\VbEstadistica\obj\Debug\VbEstadistica.exe
+D:\Programacion\VisualBasic\VbEstadistica\obj\Debug\VbEstadistica.xml
+D:\Programacion\VisualBasic\VbEstadistica\obj\Debug\VbEstadistica.pdb
+D:\Programacion\VisualBasic\VbEstadistica\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Programacion\VisualBasic\VbEstadistica\obj\Debug\VbEstadistica.vbproj.CopyComplete

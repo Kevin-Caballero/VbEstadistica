@@ -1,0 +1,7 @@
+    ALUMNO  NOTA
+
+andermanuel     9
+kevinmanuel     8
+     kevin     8
+MEDIA: 8,333333
+
